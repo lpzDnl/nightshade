@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Nightshade
+Comment=Blue Light Filter for Raspberry Pi
+Exec=python3 /usr/local/bin/nightshade
+Icon=redshift
+Terminal=false
+Type=Application
+Categories=Utility;System;
+StartupNotify=false
+X-XFCE-Autostart=true
