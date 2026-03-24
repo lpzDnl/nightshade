@@ -1,7 +1,11 @@
+.env
+*.db
+*.key
 __pycache__/
 *.pyc
 *.pyo
-.venv/
-*.egg-info/
-dist/
-build/
+logs/
+*.log
+config/secrets*
+wg*.conf
+*.pem
